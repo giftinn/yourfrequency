@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Count On Me</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Bruno Mars</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -108,17 +108,14 @@ html:`
 <div class="letterContent">
 
 <span class="signal">TRANSMISSION START</span><br><br>
+📻 Good evening, and welcome to Love FM. We interrupt your regular programming for a very special broadcast because tonight, we celebrate someone so rare, the universe had to take its time getting her right.
 
-TRANSMISSION START
+Her name is Sierra Belle. Sierra, you’re not just a friend. You’re the song that plays at exactly the right moment, the one that comes through at 2AM when you didn’t know you needed it, and suddenly everything feels okay again.
+You walk into a room and something shifts. The air gets warmer. People smile without knowing why. I’ve seen you be strong when you had every right to fall apart.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+Happy birthday, Sierra Belle. My favorite person, my favorite signal, my favorite proof that some things in this life are just beautifully, perfectly meant to be. ♥️
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
 
-But like late night radio waves that stay playing even when the world sleeps.
-
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
